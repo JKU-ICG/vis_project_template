@@ -1,25 +1,26 @@
 {
-    "team-name": "Team Name",
-    "submission": 2,
+    "submission_id": 2,
+    "submission_type": "intermediate",
+    "team_name": "Team Name",
     "students": [
         {
-            "first-name": "First",
-            "last-name": "Last",
+            "first_name": "First",
+            "last_name": "Last",
             "workload": 0.25
         },
         {
-            "first-name": "First",
-            "last-name": "Last",
+            "first_name": "First",
+            "last_name": "Last",
             "workload": 0.25
         },
         {
-            "first-name": "First",
-            "last-name": "Last",
+            "first_name": "First",
+            "last_name": "Last",
             "workload": 0.25
         },
         {
-            "first-name": "First",
-            "last-name": "Last",
+            "first_name": "First",
+            "last_name": "Last",
             "workload": 0.25
         }
     ]

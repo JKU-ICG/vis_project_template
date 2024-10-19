@@ -4,7 +4,7 @@ Template repository for the Visualization lab project at the Johannes Kepler Uni
 
 Please read through this `README.md` follow the instructions below.
 
-For the detailed project specification check the [Visualizatiopn Moodel page](https://moodle.jku.at/course/view.php?id=31341).
+For the detailed project specification check the [Visualization Moodel page](https://moodle.jku.at/course/view.php?id=31341).
 
 ## 0. Team Information
 
@@ -14,15 +14,17 @@ Make sure that the file contains your team name, each student's first and last n
 ## 1. Project Proposal
 
 Fill out the `sub_01_proposal.ipynb` file and indicate the workloads for each student in the `sub_01_workload.json` file.
-Make sure that the names in the workload file match with the `team-info.json` and that the workloads sum up to 1.
+
+Make sure that the file includes your correct team name, that the names in the workload file match with the `team-info.json` and that the workloads sum up to 1.
 
 **Push the files to GitHub by 23:59 on 11 November, 2024.**
 (Check Moodle for any updated deadlines.)
 
 ## 2. Intermediate Project Submission
 
-Fill out the `sub_02_intermediate.ipynb` file and indicate the workloads for each student in the `sub_02_workload.json` file. The workloads must sum up to 1.
-Make sure that the names in the workload file match with the `team-info.json` and that the workloads sum up to 1.
+Fill out the `sub_02_intermediate.ipynb` file and indicate the workloads for each student in the `sub_02_workload.json` file.
+
+Make sure that the file includes your correct team name, that the names in the workload file match with the `team-info.json` and that the workloads sum up to 1.
 
 You can use the submission notebook for your experiments and to show your progress, but please keep a clear separation between any experimental outputs and the actual submission.
 
@@ -32,7 +34,8 @@ You can use the submission notebook for your experiments and to show your progre
 ## 3. Final Project Submission
 
 Fill out the `sub_03_final.ipynb` file and indicate the workloads for each student in the `sub_03_workload.json` file.
-Make sure that the names in the workload file match with the `team-info.json` and that the workloads sum up to 1.
+
+Make sure that the file includes your correct team name, that the names in the workload file match with the `team-info.json` and that the workloads sum up to 1.
 
 You can use the submission notebook for your experiments and to show your progress, but please keep a clear separation between any experimental outputs and the actual submission.
 
@@ -44,12 +47,14 @@ You can use the submission notebook for your experiments and to show your progre
 Add your slides and a video of your presentation to the `sub_04_presentation` folder. Please adhere to the following file extension and naming schemes: `presentation-video-<TEAMNAME>.mp4` and `presentation-slides-<TEAMNAME>.ppt(x)/pdf`. Please check Moodle for additional requirements such as the time limit.
 
 Indicate the workloads for each student in the `sub_04_workload.json` file.
-Make sure that the names in the workload file match with the `team-info.json` and that the workloads sum up to 1.
+Make sure that the file includes your correct team name, that the names in the workload file match with the `team-info.json` and that the workloads sum up to 1.
 
 **Push the files to GitHub by 23:59 on 16 January, 2025.**
 (Check Moodle for any updated deadlines.)
 
-In case you have any questions about the individual submissions, please open a thread in the Discussion Forum on Moodle.
+## Communication
+
+In case you have any questions about the individual submissions, please open a thread in the [Discussion Forum on Moodle](https://moodle.jku.at/mod/forum/view.php?id=10300502).
 If you have issues with one of your teammates or do not agree about the workloads, please reach out to the course team via email.
 
 ## General Submission Information

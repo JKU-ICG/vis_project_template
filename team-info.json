@@ -1,33 +1,33 @@
 {
-    "team-name": "Team Name",
+    "team_name": "Team Name",
     "students": [
         {
-            "student-id": "k00000000",
-            "first-name": "First",
-            "last-name": "Last",
+            "student_id": "k00000000",
+            "first_name": "First",
+            "last_name": "Last",
             "email": "first.last@mail.com",
-            "github-user": "mygitusername"
+            "github_user": "mygitusername"
         },
         {
-            "student-id": "k00000000",
-            "first-name": "First",
-            "last-name": "Last",
+            "student_id": "k00000000",
+            "first_name": "First",
+            "last_name": "Last",
             "email": "first.last@mail.com",
-            "github-user": "mygitusername"
+            "github_user": "mygitusername"
         },
         {
-            "student-id": "k00000000",
-            "first-name": "First",
-            "last-name": "Last",
+            "student_id": "k00000000",
+            "first_name": "First",
+            "last_name": "Last",
             "email": "first.last@mail.com",
-            "github-user": "mygitusername"
+            "github_user": "mygitusername"
         },
         {
-            "student-id": "k00000000",
-            "first-name": "First",
-            "last-name": "Last",
+            "student_id": "k00000000",
+            "first_name": "First",
+            "last_name": "Last",
             "email": "first.last@mail.com",
-            "github-user": "mygitusername"
+            "github_user": "mygitusername"
         }
     ]
 }
