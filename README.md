@@ -1,52 +1,72 @@
-# Visual Analytics Lab Project
-Submission template for the Visual Analytics lab project at the Johannes Kepler University Linz.
+# Visualization Lab Project
 
-**Explanation:**
-This `README.md` needs to be updated and pushed to GitHub.
-Change/extend the corresponding sections by replacing the [TODO] markers.
+Template repository for the Visualization lab project at the Johannes Kepler University Linz.
 
-For a detailed project spezification look up the [Visual Analytics Moodel page](https://moodle.jku.at/jku/course/view.php?id=25624).
+Please read through this `README.md` follow the instructions below.
 
-**Tip:** Make yourself familiar with [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+For the detailed project specification check the [Visualizatiopn Moodel page](https://moodle.jku.at/course/view.php?id=31341).
 
-## General Information
+## 0. Team Information
 
-### Group Members
+Fill out the `team-info.json` file in this repository and **push it to GitHub by 23:59 on 4 November, 2024**. (Check Moodle for any updated deadlines.)
+Make sure that the file contains your team name, each student's first and last name, student ID, email address, and GitHub username.
 
-| Student ID    | First Name  | Last Name      | E-Mail | Workload [%]  |
-| --------------|-------------|----------------|--------|---------------|
-| [TODO]        | [TODO]      | [TODO]         |[TODO]  |[TODO]         |
-| [TODO]        | [TODO]      | [TODO]         |[TODO]  |[TODO]         |
-| [TODO]        | [TODO]      | [TODO]         |[TODO]  |[TODO]         |
-| [TODO]        | [TODO]      | [TODO]         |[TODO]  |[TODO]         |
+## 1. Project Proposal
 
-### Dataset
+Fill out the `sub_01_proposal.ipynb` file and indicate the workloads for each student in the `sub_01_workload.json` file.
+Make sure that the names in the workload file match with the `team-info.json` and that the workloads sum up to 1.
 
-* What is the dataset about?
-* Where did you get this dataset from (i.e., source of the dataset)?
-* How big is the dataset?
+**Push the files to GitHub by 23:59 on 11 November, 2024.**
+(Check Moodle for any updated deadlines.)
 
-**Description:**
-[TODO]
+## 2. Intermediate Project Submission
 
+Fill out the `sub_02_intermediate.ipynb` file and indicate the workloads for each student in the `sub_02_workload.json` file. The workloads must sum up to 1.
+Make sure that the names in the workload file match with the `team-info.json` and that the workloads sum up to 1.
+
+You can use the submission notebook for your experiments and to show your progress, but please keep a clear separation between any experimental outputs and the actual submission.
+
+**Push the files to GitHub by 23:59 on 2 December, 2024.**
+(Check Moodle for any updated deadlines.)
+
+## 3. Final Project Submission
+
+Fill out the `sub_03_final.ipynb` file and indicate the workloads for each student in the `sub_03_workload.json` file.
+Make sure that the names in the workload file match with the `team-info.json` and that the workloads sum up to 1.
+
+You can use the submission notebook for your experiments and to show your progress, but please keep a clear separation between any experimental outputs and the actual submission.
+
+**Push the files to GitHub by 23:59 on 16 January, 2025.**
+(Check Moodle for any updated deadlines.)
+
+## 4. Project Presentation
+
+Add your slides and a video of your presentation to the `sub_04_presentation` folder. Please adhere to the following file extension and naming schemes: `presentation-video-<TEAMNAME>.mp4` and `presentation-slides-<TEAMNAME>.ppt(x)/pdf`. Please check Moodle for additional requirements such as the time limit.
+
+Indicate the workloads for each student in the `sub_04_workload.json` file.
+Make sure that the names in the workload file match with the `team-info.json` and that the workloads sum up to 1.
+
+**Push the files to GitHub by 23:59 on 16 January, 2025.**
+(Check Moodle for any updated deadlines.)
+
+In case you have any questions about the individual submissions, please open a thread in the Discussion Forum on Moodle.
+If you have issues with one of your teammates or do not agree about the workloads, please reach out to the course team via email.
 
 ## General Submission Information
 
 * Make sure that you pushed your GitHub repository and not just committed it locally.
-* Sending us an email with the code is not necessary.
-* Please update the *environment.yml* file if you need additional libraries, otherwise the code is not executeable.
-* Save your executed submission notebooks as HTML and add them to your repository.  
-  * Select 'File' -> 'Save and Export Notebook As...' -> 'HTML'
-* Upload the exported HTML file on Moodle, if it is required for the submission.
+* **Make sure that the GitHub preview of your `.ipynb` files contains all parts of your submission that you want us to see!** In particular:
+  * Check if all output for static visualizations is visible. If not, include a static screenshot as an image.
+  * Check if all output for interactive visualizations is visible. If not, include a static screenshot and a link to a short screencast located in your repository.
+* Feel free to use the provided `environment.yml` file as a starting point (instructions below). If you use additional libraries, keep the environment file up-to-date to keep your code easily executable for yourself and others.
 
-## Usage
+## Usage Instructions
 
-### Locally
 Checkout this repo and change into the folder:
 
 ```shell
-git clone https://github.com/jku-icg-classroom/va-project-2023-<GROUP_NAME>.git
-cd va-project-2023-<GROUP_NAME>
+git clone https://github.com/jku-icg-classroom/vis-project-2024-<GROUP_NAME>.git
+cd vis-project-2024-<GROUP_NAME>
 ```
 
 Load the conda environment from the `environment.yml` file, if you haven't already in previous assignments:
@@ -58,10 +78,10 @@ conda env create -f environment.yml
 Activate the loaded conda environment:
 
 ```sh
-conda activate python-tutorial
+conda activate vis-project
 ```
 
-Install Jupyter Lab extension to use *ipywidgets* in JupyterLab:
+You might have to install the Jupyter Lab extension to use *ipywidgets* in JupyterLab:
 
 ```sh
 jupyter labextension install @jupyter-widgets/jupyterlab-manager
@@ -73,7 +93,7 @@ Launch Jupyter :
 jupyter lab
 ```
 
-Jupyter should open a new tab with url http://localhost:8888/ and display the tutorial files.
+Jupyter should now open a new tab with url http://localhost:8888/ and display the project files.
 
 
 

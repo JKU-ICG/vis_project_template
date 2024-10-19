@@ -1,0 +1,26 @@
+{
+    "team-name": "Team Name",
+    "submission": 1,
+    "students": [
+        {
+            "first-name": "First",
+            "last-name": "Last",
+            "workload": 0.25
+        },
+        {
+            "first-name": "First",
+            "last-name": "Last",
+            "workload": 0.25
+        },
+        {
+            "first-name": "First",
+            "last-name": "Last",
+            "workload": 0.25
+        },
+        {
+            "first-name": "First",
+            "last-name": "Last",
+            "workload": 0.25
+        }
+    ]
+}
