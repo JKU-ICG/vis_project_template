@@ -4,12 +4,13 @@ Template repository for the Visualization lab project at the Johannes Kepler Uni
 
 Please read through this `README.md` follow the instructions below.
 
-For the detailed project specification check the [Visualization Moodel page](https://moodle.jku.at/course/view.php?id=31341).
+For the detailed project specification check the [Visualization Moodel page](https://moodle.jku.at/course/view.php?id=40741).
 
 ## 0. Team Information
 
-Fill out the `team-info.json` file in this repository and **push it to GitHub by 23:59 on 4 November, 2024**. (Check Moodle for any updated deadlines.)
+Fill out the `team-info.json` file in this repository and **push it to GitHub by 23:59 on 28 March, 2026**. (Check Moodle for any updated deadlines.)
 Make sure that the file contains your team name, each student's first and last name, student ID, email address, and GitHub username.
+Remove any unused entries. A failure to properly fill out this file leads to extra organizational overhead and will result in a small point deduction.
 
 ## 1. Project Proposal
 
@@ -17,7 +18,7 @@ Fill out the `sub_01_proposal.ipynb` file and indicate the workloads for each st
 
 Make sure that the file includes your correct team name, that the names in the workload file match with the `team-info.json` and that the workloads sum up to 1.
 
-**Push the files to GitHub by 23:59 on 11 November, 2024.**
+**Push the files to GitHub by 23:59 on 17 April, 2026.**
 (Check Moodle for any updated deadlines.)
 
 ## 2. Intermediate Project Submission
@@ -28,7 +29,9 @@ Make sure that the file includes your correct team name, that the names in the w
 
 You can use the submission notebook for your experiments and to show your progress, but please keep a clear separation between any experimental outputs and the actual submission.
 
-**Push the files to GitHub by 23:59 on 2 December, 2024.**
+For the sketch, upload a file named `sub_02_intermediate_sketch.pdf` in the `sub_02_intermediate` folder.
+
+**Push the files to GitHub by 23:59 on 8 May, 2026.**
 (Check Moodle for any updated deadlines.)
 
 ## 3. Final Project Submission
@@ -39,7 +42,7 @@ Make sure that the file includes your correct team name, that the names in the w
 
 You can use the submission notebook for your experiments and to show your progress, but please keep a clear separation between any experimental outputs and the actual submission.
 
-**Push the files to GitHub by 23:59 on 16 January, 2025.**
+**Push the files to GitHub by 23:59 on 22 June, 2026.**
 (Check Moodle for any updated deadlines.)
 
 ## 4. Project Presentation
@@ -49,12 +52,12 @@ Add your slides and a video of your presentation to the `sub_04_presentation` fo
 Indicate the workloads for each student in the `sub_04_workload.json` file.
 Make sure that the file includes your correct team name, that the names in the workload file match with the `team-info.json` and that the workloads sum up to 1.
 
-**Push the files to GitHub by 23:59 on 16 January, 2025.**
+**Push the files to GitHub by 23:59 on 22 June, 2026.**
 (Check Moodle for any updated deadlines.)
 
 ## Communication
 
-In case you have any questions about the individual submissions, please open a thread in the [Discussion Forum on Moodle](https://moodle.jku.at/mod/forum/view.php?id=10300502).
+In case you have any questions about the individual submissions, please open a thread in the [Discussion Forum on Moodle](https://moodle.jku.at/mod/forum/view.php?id=12723865).
 If you have issues with one of your teammates or do not agree about the workloads, please reach out to the course team via email.
 
 ## General Submission Information
